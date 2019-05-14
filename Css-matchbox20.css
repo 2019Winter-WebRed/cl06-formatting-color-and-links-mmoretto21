@@ -1,0 +1,60 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{
+} 
+/* Body attributes here */
+
+Body{ 
+    
+
+} 
+
+header{background-color: aquamarine;}
+main{background-color: palegreen;}
+footer{background-color: yellow;}
+
+a:link {
+    color: darkseagreen;
+    text-decoration: underlined;} 
+
+a:hover{
+  font-family: fantasy;
+      font-size: 54;
+    text-decoration-color: rebeccapurple;
+    
+}
+
+h1{font-size: 150%;
+text-align: center;
+}
+
+img { float: right;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
